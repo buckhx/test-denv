@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/buck/go/src/github.com/buckhx/hello'
+let g:netrw_dirhist_2='/home/buck/go/src/github.com/buckhx'
+let g:netrw_dirhist_3='/home/buck/workspace/go/src/github.com/buckhx/denv/api'

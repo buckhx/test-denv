@@ -1,0 +1,14 @@
+---
+last_check:
+  etag: !binary |-
+    Vy8iZDY3OGJjYWEyZjFjYTQxNjdiNGJjYjkyNTQxOTA4ZGMi
+  version: 1.8.0
+  at: 1439947870
+checked_completion: true
+completion_version: 1.8.0
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: 
+repos:
+  buckhx/denv:
+    endpoint: https://api.travis-ci.org/
